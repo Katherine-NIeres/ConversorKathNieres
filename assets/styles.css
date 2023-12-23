@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+body {
+    background-color: #B199D8;
+}
+
+.sectprincipal {
+    background-color: #B199D8;
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.titulo {
+    background-color: #662E8C;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.tarjeta {
+    background-color: rgb(39, 39, 39);
+    border-radius: 10px;
+}
+
+.h3 {
+    margin: 10px;
+    padding-top: 10px;
+    font-weight: bolder;
+    color: white;
+    font-size: 25px;
+}
+
+.montoclp {
+    width: 80%;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+
+.menu {
+    margin: 10px;
+    padding: 5px;
+    font-weight: bolder;
+    color: white;
+    font-size: 25px;
+}
+
+.montoclp {
+    width: 80%;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(220, 154, 250);
+}
+
+.moneda {
+    width: 80%;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(220, 154, 250);
+}
+
+.boton {
+    background-color: #662E8C;
+    width: 80%;
+    border-radius: 10px;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.grafico {
+    width: 80%;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    margin-left: 20px;
+}
